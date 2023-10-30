@@ -1,9 +1,11 @@
 # Danny's Diner
 ## Desafio SQL - 1º Estudo de caso
 <p align="center">
-  <img src="dannys_diner.png" height=500px>
+  <img src="dannys_diner.png" height=500px> <br>
+  <i>Fonte: https://8weeksqlchallenge.com/case-study-1/</i>
 </p>
-<br/>
+
+<br>
 
 ## Sobre o projeto
 <p align="justify">
