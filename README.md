@@ -1,4 +1,4 @@
-# Dannys_diner
+# Danny's Diner
 ## Desafio SQL - 1º Estudo de caso
 <p align="center">
   <img src="dannys_diner.png" height=500px>
